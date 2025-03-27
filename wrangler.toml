@@ -1,5 +1,5 @@
-name = "chocolate-creator" 
+name = "chocolate-creator"  
 compatibility_date = "2025-03-27"
 
 [[assets]]
-bucket = "./dist" 
+  directory = "./dist" 
