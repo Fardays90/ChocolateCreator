@@ -46,7 +46,7 @@ const Home = () => {
              transition={{ duration: 0.6, delay: 0.2 }}
              viewport={{once:true}}
             >
-              <h3 className="text-2xl text-center text-white font-semibold mb-4">Design #2</h3>
+              <h3 className="text-2xl text-center text-white font-semibold mb-4">Choco Mania</h3>
               <img src="/mimi 1.png" alt="Chocolate Design" className="w-1/2 h-52 object-contain    mx-auto rounded-lg " />
             </motion.div>
             <motion.div className="bg-gradient-to-b from-50% to-50%  from-blue-400 to-pink-300   p-2 rounded-lg shadow-xl hover:shadow-2xl transition-all duration-300 hover:scale-105"
@@ -55,7 +55,7 @@ const Home = () => {
              transition={{ duration: 0.6, delay: 0.3 }}
              viewport={{once:true}}
             >
-              <h3 className="text-2xl text-center text-white font-semibold mb-4">Design #2</h3>
+              <h3 className="text-2xl text-center text-white font-semibold mb-4">Dark Delight</h3>
               <img src="/mimi 33.png" alt="Chocolate Design" className="w-1/2 h-52 object-contain     mx-auto rounded-lg " />
             </motion.div>
             <motion.div className="bg-gradient-to-b from-50% to-50%  from-blue-400 to-pink-300   p-2 rounded-lg shadow-xl hover:shadow-2xl transition-all duration-300 hover:scale-105"
@@ -64,7 +64,7 @@ const Home = () => {
              transition={{ duration: 0.6, delay: 0.4 }}
              viewport={{once:true}}
             >
-              <h3 className="text-2xl text-center text-white font-semibold mb-4">Design #2</h3>
+              <h3 className="text-2xl text-center text-white font-semibold mb-4">Chocolate Frenzy</h3>
               <img src="/mimi 33.png" alt="Chocolate Design" className="w-1/2 h-52 object-contain     mx-auto rounded-lg " />
             </motion.div>
           </div>
