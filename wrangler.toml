@@ -1,5 +1,5 @@
-name = "chocolate-creator"  
+name = "chocolatemaker"
 compatibility_date = "2025-03-27"
 
-[[assets]]
-  directory = "./dist" 
+[assets]
+directory = "dist"
