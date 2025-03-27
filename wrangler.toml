@@ -1,0 +1,7 @@
+name = "ChocolateCreator"
+compatibility_date = "2025-03-27"  # Use the current date
+
+# Define the assets directory (where the build files are located)
+assets = [
+  { bucket = "./dist", pattern = "/**/*" }
+]
