@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+
+body{
+  background-image: url("https://img.freepik.com/free-photo/anime-style-clouds_23-2151071733.jpg?t=st=1743079896~exp=1743083496~hmac=9bdb8059cb9e2f0ea97a0f2b3ba2d10823f323f917b3835411e93c8b04795934&w=1380");
+  background-attachment: fixed;
+}
